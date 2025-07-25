@@ -1,0 +1,8 @@
+{
+  "name": "clean-folders",
+  "version": "1.0.0",
+  "main": "cleanEmptyFolders.js",
+  "scripts": {
+    "start": "node cleanEmptyFolders.js"
+  }
+}
