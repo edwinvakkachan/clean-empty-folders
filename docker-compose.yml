@@ -3,7 +3,7 @@ version: '3.9'
 services:
   clean-folders:
     build: ./clean-folders
-    container_name: clean-empty-folders
+    container_name: cleanEmptyFolders
     volumes:
       - /srv/dev-disk-by-uuid-71f50e81-4a2b-4a69-a58f-76d579bd27f6/1tb/App/tubearchivist/media:/app/media
     environment:
